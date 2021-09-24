@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-09-24 15:03:40
+ * @LastEditTime: 2021-09-24 15:57:00
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \undefinede:\论文\Media analysis tool\MediaAnalysisTool\readme.md
+-->
 
 ![avatar](https://img.shields.io/badge/2.1.0-A%20tiny%20Media%20Analysis%20Tool-brightgreen)
 
@@ -9,6 +17,7 @@
 * <b>视频播放模块</b>
 * <b>控制模块</b>
 * <b>管理音频设备模块</b>
+
 采用ffmpeg，sdl和qt构建的简单媒体分析工具。采用动态加载ffmpeg与sdl库的方式来播放视/音频。可正常播放视频或音频，解决视音频同步的问题，支持一键开启/关闭当前音频设备以及显示媒体相关信息的功能。
 
 
